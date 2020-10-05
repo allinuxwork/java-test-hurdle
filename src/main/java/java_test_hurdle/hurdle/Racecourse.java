@@ -2,7 +2,7 @@ package java_test_hurdle.hurdle;
 
 import java_test_hurdle.gamer.Gamer;
 
-public class Racecourse  implements Hurdle {
+public class Racecourse implements Hurdle {
     private int length;
 
     public Racecourse(int length) {

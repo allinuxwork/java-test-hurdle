@@ -15,7 +15,6 @@ public class Human implements Gamer {
         this.maxHeight = maxHeight;
     }
 
-
     public int getMaxLength() {
         return maxLength;
     }

@@ -16,7 +16,6 @@ public class Cat implements Gamer {
         this.maxHeight = maxHeight;
     }
 
-
     public int getMaxLength() {
         return maxLength;
     }
